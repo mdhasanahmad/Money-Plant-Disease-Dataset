@@ -1,4 +1,4 @@
-# 🌿 Money Plant Disease Classification Dataset & Deep Learning Model
+# 🌿 Money Plant Disease Classification Dataset 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dataset-6000%20Images-brightgreen">
